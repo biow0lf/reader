@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120225182709) do
+ActiveRecord::Schema.define(:version => 20120225190533) do
 
   create_table "delayed_jobs", :force => true do |t|
     t.integer  "priority",   :default => 0
@@ -46,6 +46,13 @@ ActiveRecord::Schema.define(:version => 20120225182709) do
     t.string   "link"
     t.string   "title"
   end
+
+  create_table "feeds_users", :id => false, :force => true do |t|
+    t.integer "feed_id"
+    t.integer "user_id"
+  end
+
+  add_index "feeds_users", ["feed_id", "user_id"], :name => "index_feeds_users_on_feed_id_and_user_id", :unique => true
 
   create_table "users", :force => true do |t|
     t.string   "email",                  :default => "", :null => false

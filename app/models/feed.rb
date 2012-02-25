@@ -2,6 +2,7 @@
 
 class Feed < ActiveRecord::Base
   has_many :feed_items
+  has_and_belongs_to_many :users
 
   # url of rss feed
   validates :url, presence: true
