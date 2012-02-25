@@ -3,7 +3,15 @@
 <% @feeds.each do |feed| %>
   <h2><%= feed.title %></h2>
   <% feed.feed_items.each do |item| %>
-    <h3><%= link_to item.title, item.link %></h3>
-    <p><%= item.body.html_safe %></p>
+    <div class="span7 well">
+      <h3><%= link_to item.title, item.link %></h3>
+      <p><%= item.body.html_safe %></p>
+      <div class="btn-group">
+        <a href="#"><i class="icon-star">&nbsp;</i>Star</a>
+        <a href="#"><i class="icon-heart">&nbsp;</i>Like</a>
+        <a href="#"><i class="icon-share">&nbsp;</i>Share</a>
+        <a href="#"><i class="icon-pencil">&nbsp;</i>Share &amp; Comment</a>
+      </div>
+    </div>
   <% end %>
 <% end %>
