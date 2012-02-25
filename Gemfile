@@ -58,4 +58,5 @@ group :development do
   gem 'ruby_gntp'
   gem 'guard-rspec'
   gem 'guard-cucumber'
+  gem 'guard-delayed'
 end
