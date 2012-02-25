@@ -1,5 +1,9 @@
 Reader::Application.routes.draw do
+  get "about" => "pages#about", :as => :about
+
   devise_for :users
+
+  get "dashboard" => "dashboard#index"
 
   root :to => "home#index"
 
