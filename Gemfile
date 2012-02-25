@@ -8,6 +8,10 @@ gem 'devise'
 gem 'twitter-bootstrap-rails', '~> 2.0.1.0'
 gem 'simple-rss'
 
+gem 'fast_gettext'
+gem 'gettext_i18n_rails'
+gem 'gettext', :git => 'git://github.com/cameel/gettext.git', :require => false
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
