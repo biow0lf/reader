@@ -12,6 +12,9 @@ gem 'fast_gettext'
 gem 'gettext_i18n_rails'
 gem 'gettext', :git => 'git://github.com/cameel/gettext.git', :require => false
 
+gem 'delayed_job'
+gem 'delayed_job_active_record'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
