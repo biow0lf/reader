@@ -1,6 +1,7 @@
 <h1>Add Feed:</h1>
 
-<%= form_tag add_feed_create_path, :method => :post do %>
-  <%= text_field_tag :url, nil, :placeholder => _('Url...') %>
-  <%= submit_tag "Add" %>
+<%= form_tag add_feed_create_path, :method => :post, :class => 'well' do %>
+  <label for="url">Url:</label>
+  <%= text_field_tag :url, nil, :class => 'span8' %>
+  <%= submit_tag "Add", :class => 'btn' %>
 <% end %>
