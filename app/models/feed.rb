@@ -1,6 +1,7 @@
 # encoding: utf-8
 
 require 'open-uri'
+require 'htmlentities'
 
 class Feed < ActiveRecord::Base
   has_many :feed_items
@@ -30,9 +31,24 @@ class Feed < ActiveRecord::Base
   end
 
   def update_link_and_title
-    rss = SimpleRSS.parse open(url)
+    rss = SimpleRSS.parse(open(url))
     self.link = rss.channel.link
     self.title = rss.channel.title
     self.save!
+    self.delay.update_feed_items
+  end
+
+  def update_feed_items
+    rss = SimpleRSS.parse(open(url))
+    rss.items.each do |item|
+      FeedItem.create!(feed_id: self.id,
+                       title: item.title,
+                       link: item.link,
+                       #author: item.author,
+                       body: HTMLEntities.new.decode(item.description))
+                       #date: item.pubDate,
+                       #guid: item.guid,
+                       #feedburner_origLink)
+    end
   end
 end

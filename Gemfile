@@ -7,6 +7,7 @@ gem 'sqlite3'
 gem 'devise'
 gem 'twitter-bootstrap-rails', '~> 2.0.1.0'
 gem 'simple-rss'
+gem 'htmlentities', :require => false
 
 gem 'fast_gettext'
 gem 'gettext_i18n_rails'

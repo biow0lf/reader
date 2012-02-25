@@ -5,5 +5,6 @@ class FeedItem < ActiveRecord::Base
 
   validates :feed, presence: true
   validates :title, presence: true
+  validates :link, presence: true
   validates :body, presence: true
 end
