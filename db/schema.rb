@@ -11,7 +11,17 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120225161054) do
+ActiveRecord::Schema.define(:version => 20120225162815) do
+
+  create_table "feed_items", :force => true do |t|
+    t.integer  "feed_id"
+    t.string   "title"
+    t.text     "body"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  add_index "feed_items", ["feed_id"], :name => "index_feed_items_on_feed_id"
 
   create_table "feeds", :force => true do |t|
     t.string   "url"
