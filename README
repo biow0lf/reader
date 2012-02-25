@@ -1,0 +1,5 @@
+# 1.9.3p125 :001 > require 'simple-rss'
+#  => true 
+# 1.9.3p125 :002 > require 'open-uri'
+#  => true 
+# 1.9.3p125 :003 > rss = SimpleRSS.parse open('http://linux.org.ru/section-rss.jsp?section=1')

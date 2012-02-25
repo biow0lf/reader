@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <link>http://www.linux.org.ru/</link>
+    <language>ru</language>
+    <title>Linux.org.ru: Новости</title>
+
+    <description>Linux.org.ru: Новости</description>
+
+    <pubDate>
+      
+
+
+
+
+Sat, 25 Feb 2012 22:45:55 +0400
+
+
+    </pubDate>
+  
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/org/LOR" /><feedburner:info uri="org/lor" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+      <author>psv1967</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/UGpjWOIvszg/7460644</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/internet/7460644</guid>
+      <title>Новый закон  Франции открывает дорогу оцифровке книг.</title>
+      
+        <pubDate>
+
+
+
+
+Sat, 25 Feb 2012 21:57:40 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Свершилось! Франция приняла закон, по которому книги, изданные в 20 веке и недоступные в коммерческой продаже, направляются на оцифровку.&lt;/p&gt;&lt;div class="none"&gt;&amp;gt;&amp;gt;-----Цитата----&amp;gt;&amp;gt;&lt;/div&gt;&lt;div class="quote"&gt;&lt;p&gt;
+в ночь со среды на четверг Национальная ассамблея после тайного голосования окончательно приняла закон «об оцифровке книг, недоступных в XX веке», позволяющий приобрести в интернете все произведения, недоступные вне библиотек.&lt;/p&gt;&lt;/div&gt;&lt;div class="none"&gt;&amp;lt;&amp;lt;-----Цитата----&amp;lt;&amp;lt;&lt;/div&gt;&lt;p&gt;Теперь есть прецедент, на который можно сослаться при разработке и принятии жизненно необходимых копирайтных новаций.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/UGpjWOIvszg" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/internet/7460644</feedburner:origLink></item>
+  
+    <item>
+      <author>JenyayIlin</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/8vs6cxKOh0Y/7457678</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/opensource/7457678</guid>
+      <title>Вышел OutWiker 1.5.0</title>
+      
+        <pubDate>
+
+
+
+
+Sat, 25 Feb 2012 13:06:46 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Вышла новая версия (1.5.0) программы для древовидного хранения заметок OutWiker. Основные особенности программы следующие:&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; База заметок хранится в виде директорий на диске, а не в одном файле.&lt;br&gt;&lt;/li&gt;&lt;li&gt; К каждой заметке можно прикреплять любое количество файлов.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Поддержка плагинов.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Страницы могут быть разных типов. В данный момент поддерживаются текстовые страницы, страницы в формате HTML и вики-страницы.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Поддержка тегов.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Поддержка закладок на страницы.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Возможность вставки формул в нотации TeX.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Возможность установки внешнего вида страниц с помощью стилей CSS.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Возможность создания ссылок между страницами.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Кроссплатформенность (поддержка Windows и Linux).&lt;br&gt;&lt;/li&gt;&lt;li&gt; Портабельность. Программа все настройки может хранить рядом с запускаемым файлом.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Программа распространяется с открытыми исходниками.&lt;br&gt;&lt;br&gt;Изменения в версии 1.5.0:&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt; Добавлено облако меток в главное окно.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Теперь теги можно добавлять, используя облако меток.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Метки для выбранной записи теперь выделяются в общем облаке меток.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Добавлена возможность группового добавления/удаления/переименования меток.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Добавлена настройка, позволяющая сворачивать окно программы при нажатии на кнопку закрытия.&lt;br&gt;&lt;/li&gt;&lt;li&gt; Двойной щелчок на заголовок страницы открывает диалог для редактирования свойств страницы.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/8vs6cxKOh0Y" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/opensource/7457678</feedburner:origLink></item>
+  
+    <item>
+      <author>BMX</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/6A2bV7CeSSM/7454717</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/opensource/7454717</guid>
+      <title>EFF выиграла защиту tzdata</title>
+      
+        <pubDate>
+
+
+
+
+Fri, 24 Feb 2012 07:15:23 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Организация Electronic Frontier Foundation с радостью сообщает, что неправомерный иск, угрожающий важной базе часовых поясов, был отклонен. Компания Astrolabe также принесла извинения и согласилась не подавать таких исков в будущем, что поможет защитить tz database от необоснованных судебных исков и сбоев.&lt;br&gt;&lt;br&gt;Разработчики программного обеспечения по всему миру полагаются на базу часовых поясов, чтобы убедиться, что временные метки электронных писем и других файлов работают правильно, независимо от того, где вы находитесь. Тем не менее, в сентябре прошлого года Astrolabe подала иск против Артура Дэвида Олсона и Пола Эггерта — исследователей, которые координируют разработку tzdata в течение десятилетий, потому, что база включает информацию из атласа, на который компания предъявляет авторские права. Но факты — например, то, что Солнце встает — не могут быть объектами авторского права. EFF, вместе с адвокатами, быстро подписали контракт на защиту Олсона и Эггерта, а также их важной разработки. В январе EFF сообщила Astrolabe, что Олсон и Эггерт предъявят встречные санкции, если Astrolabe не откажется от своих претензий. И вот иск был отозван.&lt;br&gt;&lt;br&gt;В заявлении Astrolabe сообщила, что иск был основан на ошибочном понимании закона, и теперь они признают, что исторические факты не являются чьей-либо собственностью, а также сожалеют о том, что судебное разбирательство вызвало неудобства для мейнтейнеров и пользователей, связанные с вынужденным закрытием доступа к базе.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/6A2bV7CeSSM" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/opensource/7454717</feedburner:origLink></item>
+  
+    <item>
+      <author>navrocky</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/WeFg0bqIjWs/7454161</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/games/7454161</guid>
+      <title>Вышла новая версия UrtConnector 0.8.1 &amp;quot;Hilarious Headshot&amp;quot; </title>
+      
+        <pubDate>
+
+
+
+
+Fri, 24 Feb 2012 00:40:46 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Цель этой программы облегчить жизнь фанатам и профессиональным игрокам игры Urban Terror.&lt;/p&gt;&lt;p&gt;Основные возможности: 
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt; отображение списка онлайн серверов 
+&lt;/li&gt;&lt;li&gt; быстрое подключение к серверу 
+&lt;/li&gt;&lt;li&gt; сохранение любимых серверов и их настроек 
+&lt;/li&gt;&lt;li&gt; мощная система фильтрации (в особенности поиск целых кланов) 
+&lt;/li&gt;&lt;li&gt; встроеная RCON консоль
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;После предыдущей публикации на ЛОРе было добавлено:
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt; история подключений
+&lt;/li&gt;&lt;li&gt; список друзей, ожидание появления друга
+&lt;/li&gt;&lt;li&gt; универсальная система слежения. С помощью конструктора заданий можно создавать множество различных комбинаций условий для отслеживания.
+&lt;/li&gt;&lt;li&gt; возможность управлять сервером для которого есть RCON прямо из панели информации
+&lt;/li&gt;&lt;li&gt; предупреждения при подключении к полному/пустому серверу, и возможность включить ожидание
+&lt;/li&gt;&lt;li&gt; добавлена поддержка CSS скинов
+&lt;/li&gt;&lt;li&gt; переработан внешний вид фильтров и добавлены новые фильтры
+&lt;/li&gt;&lt;li&gt; множество улучшений интерфейса
+&lt;/li&gt;&lt;li&gt; оптимизации, правка багов, крэшей и утечек
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Подробнее список изменений расписан &lt;a href="http://code.google.com/p/urtconnector/wiki/WhatsNew"&gt;здесь&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Приложение написано на С++ с использованием Qt4, запускается под всеми основными платформами Linux, Windows и Mac.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Готовые пакеты доступны для:&lt;/b&gt;
+Windows, OpenSuse, Ubuntu, Fedora, Mandriva, Mageia, Archlinux, Agilia, Gentoo.&lt;/p&gt;&lt;p&gt;Для справки: Urban Terror кроссплаформенный бесплатный шутер от первого лица, идеологически близок к Counter Strike, основан на движке Q3. Среди пользователей GNU Linux весьма популярен. В среднем онлайн более 1000 серверов по всему миру и 1500-2000 игроков.&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=nHe9PtSd__o&amp;feature=player_embedded"&gt;Видео&lt;/a&gt;
+&lt;a href="http://code.google.com/p/urtconnector/wiki/ScreenShots"&gt;Скриншоты&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://urbanterror.info"&gt;Сайт игры&lt;/a&gt;
+&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/WeFg0bqIjWs" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/games/7454161</feedburner:origLink></item>
+  
+    <item>
+      <author>krakatau</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/g7Cn4oPOWmg/7453043</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/opensource/7453043</guid>
+      <title>GParted 0.12.0</title>
+      
+        <pubDate>
+
+
+
+
+Thu, 23 Feb 2012 20:27:01 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;21 февраля 2012 года свет увидел очередной релиз GParted — приложения для работы с разделами дисков.&lt;br&gt;
+&lt;br&gt;
+Новая версия порадовала такими особенностями, как:
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt; полная поддержка NILFS2;
+&lt;/li&gt;&lt;li&gt; возможность смены UUID раздела;
+&lt;/li&gt;&lt;li&gt; поддержка физических томов LVM2 (в режиме «только для чтения»);
+&lt;/li&gt;&lt;li&gt; расширение GPT при увеличении RAID,
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+а также исправлением ошибок.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/g7Cn4oPOWmg" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/opensource/7453043</feedburner:origLink></item>
+  
+    <item>
+      <author>ins3y3d</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/V7p7oNnxokw/7452102</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/games/7452102</guid>
+      <title>Релиз авиасимулятора Flightgear 2.6.0</title>
+      
+        <pubDate>
+
+
+
+
+Thu, 23 Feb 2012 17:01:37 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Разработчики популярного авиасимулятора Flightgear порадовали поклонников данной игры ее новой версий. В частности, среди всех нововведений и улучшений выделяются следующие:
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Улучшение &amp;quot;искусственного интеллекта&amp;quot; и механизма принятия решений для окружающих объектов;
+&lt;/li&gt;&lt;li&gt; Новые летательные аппараты (теперь их общее число превышает 80);
+&lt;/li&gt;&lt;li&gt; Озвучивание других воздушных судов (управляемых компьютером в однопользовательской или другими игроками в многопользовательской играх);
+&lt;/li&gt;&lt;li&gt; Упрощение процесса посадки летательного аппарата путем автоматического выбора подходящей посадочной полосы и отображения направления посадки;
+&lt;/li&gt;&lt;li&gt; Большое число улучшений используемой в Flightgear модели динамики тел в полете &lt;a href="http://jsbsim.sourceforge.net/"&gt;JSBSim&lt;/a&gt;;
+&lt;/li&gt;&lt;li&gt; Ускорение прорисовки моделей и облаков, новые визуальные эффекты;
+&lt;/li&gt;&lt;li&gt; Обновление системы записи повторов;
+&lt;/li&gt;&lt;li&gt; Ускорение процесса запуска приложения;
+&lt;/li&gt;&lt;li&gt; Упрощение настройки игровой графики;
+&lt;/li&gt;&lt;li&gt; Повышение стабильности приложения.
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="http://www.flightgear.org/download/"&gt;Страница загрузки&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/V7p7oNnxokw" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/games/7452102</feedburner:origLink></item>
+  
+    <item>
+      <author>Evgueni</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/zcFu8usXlLs/7449598</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/doc/7449598</guid>
+      <title>Интервью с Алексеем Шипуновым на тему «Наглядная статистика. Используем R»</title>
+      
+        <pubDate>
+
+
+
+
+Wed, 22 Feb 2012 20:18:39 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Внезапно я наткнулся на интервью с основным автором книги &lt;a href="http://www.ozon.ru/context/detail/id/7952180/"&gt;«Наглядная статистика. Используем R»&lt;/a&gt; Алексеем Шипуновым.&lt;/p&gt;&lt;p&gt;В интервью изложена история и причины появления книги.  Кратко: история сложная, а основная цель книги — ликвидация нехватки информации в России по &lt;a href="http://www.inp.nsk.su/~baldin/DataAnalysis/index.html"&gt;этому&lt;/a&gt; свободному профессиональному инструменту анализа статистических данных. &lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/zcFu8usXlLs" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/doc/7449598</feedburner:origLink></item>
+  
+    <item>
+      <author>x4DA</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/fSH3nBO7LXk/7449341</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/bsd/7449341</guid>
+      <title>Выпущен DragonFlyBSD 3.0</title>
+      
+        <pubDate>
+
+
+
+
+Wed, 22 Feb 2012 20:17:07 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Наконец-то вышел релиз замечательной операционной системы семейства BSD DragonFlyBSD&lt;/p&gt;&lt;p&gt;Важные нововведения/изменения:
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;b&gt;SMP VM&lt;/b&gt;. Значительна &lt;a href="http://leaf.dragonflybsd.org/mailarchive/kernel/2011-11/msg00004.html"&gt; повышена &lt;/a&gt; скорость работы на многопроцессорных конфигурациях за счет улучшений в подсистеме виртуальной памяти.&lt;/li&gt;&lt;li&gt; &lt;b&gt;HAMMER&lt;/b&gt;. Была повышена эффективность работы файловой системы HAMMER за счет введения &lt;a href="http://leaf.dragonflybsd.org/mailarchive/commits/2011-07/msg00086.html"&gt; time domain multiplexing&lt;/a&gt; &lt;/li&gt;&lt;li&gt; Был убран &lt;b&gt;Big Kernel Lock&lt;/b&gt; из большей части ядра, во время работой над багом, вызванным, &lt;a href="http://gitweb.dragonflybsd.org/dragonfly.git/commit/8e32ecc0a77082f1e232a3e6d12e2f163f9667a4"&gt; ошибкой &lt;/a&gt; процессора AMD.&lt;/li&gt;&lt;li&gt; &lt;b&gt;Ядро с поддержкой SMP&lt;/b&gt; устанавливается по умолчанию.
+Это стало возможным за счет изменений в ACPI и interrupt routing&lt;/li&gt;&lt;li&gt; &lt;b&gt; Шифрование дисков &lt;/b&gt; при помощи &lt;a href="http://leaf.dragonflybsd.org/cgi/web-man?command=tcplay&amp;section=8"&gt; tcplay(8) &lt;/a&gt;, являющейся  100% совместимой с TrueCrypt и использует лицензию BSD.&lt;/li&gt;&lt;li&gt; В качестве &lt;b&gt;репозитория пакетов&lt;/b&gt; используется pkgsrc-2011Q4.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+Прямые ссылки на образа для скачивания:&lt;/p&gt;&lt;p&gt;&lt;a href="http://mirror-master.dragonflybsd.org/iso-images/dfly-i386-3.0.1_REL.iso.bz2"&gt;i386&lt;/a&gt;
+&lt;br&gt;
+&lt;a href="http://mirror-master.dragonflybsd.org/iso-images/dfly-x86_64-3.0.1_REL.iso.bz2"&gt;x86_64&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/fSH3nBO7LXk" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/bsd/7449341</feedburner:origLink></item>
+  
+    <item>
+      <author>hobbit</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/YuD2mgZio2I/7448970</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/russia/7448970</guid>
+      <title>МВД РФ рассматривает вопросы проведения экспертизы компьютеров с Linux</title>
+      
+        <pubDate>
+
+
+
+
+Wed, 22 Feb 2012 20:11:15 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;ФКУ НПО «СТиС» МВД России &lt;a href="http://zakupki.gov.ru/pgz/public/action/orders/info/common_info/show?notificationId=2630055"&gt;разместило&lt;/a&gt; заказ на выполнение ОКР «Автоматизированное рабочее место эксперта для исследования операционных систем семейства Linux», шифр темы: «Узорчик».&lt;br&gt;&lt;/p&gt;&lt;p&gt;В проекте технического задания из конкурсной документации цель работы определяется как «Разработка программно-аппаратных средств для проведения судебных компьютерных экспертиз и исследований Unix-подобных операционных систем в пассивном режиме (исследование информации на компьютерных носителях информации (КНИ), содержащих наиболее распространенные файловые системы: Ext, Ext2, Ext3, Ext4, ReiserFS, Reiser4, Ufs)».&lt;br&gt;&lt;/p&gt;&lt;p&gt;Данная новость косвенно свидетельствует о том, что компьютеры с Linux перестали быть экзотикой для органов внутренних дел.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/YuD2mgZio2I" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/russia/7448970</feedburner:origLink></item>
+  
+    <item>
+      <author>phan13</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/o4FPunkDidY/7448536</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/internet/7448536</guid>
+      <title>Adobe отказывается от разработки Flash Player и AIR для Linux</title>
+      
+        <pubDate>
+
+
+
+
+Wed, 22 Feb 2012 16:47:12 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Сегодня стало известно, что компания Adobe не будет больше выпускать версии Flash и Adobe Air для операционной системы Linux. Дыры в безопасности и баги исправляться будут, но новых версий мы уже, увы, не увидим. Пользователи ОС Linux смогут работать с последней версией Adobe Flash только через браузер Google Chrome (Chromium), так как там реализация плагина через подключаемый модуль с помощью Pepper Plugin.&lt;/p&gt;&lt;p&gt;Для Adobe Air таких исключений нет. Так же хочется напомнить, что недавно Adobe отказалась от разработки Flash для мобильных платформ.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/o4FPunkDidY" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/internet/7448536</feedburner:origLink></item>
+  
+    <item>
+      <author>ymn</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/1aHJ01f5QFk/7447716</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/redhat/7447716</guid>
+      <title>Red Hat Enterprise Linux 5.8</title>
+      
+        <pubDate>
+
+
+
+
+Wed, 22 Feb 2012 13:20:04 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Компания Red Hat &lt;a href="https://www.redhat.com/archives/rhelv5-announce/2012-February/msg00000.html"&gt;представила&lt;/a&gt; релиз своей операционной системы Red Hat Enterprise Linux 5.8. Добавлена поддержка новых устройств, исправлены разнообразные ошибки и внесены некоторые дополнительные изменения, не влияющие на обратную совместимость со всей линейкой RHEL5, поддержка которой продлится до марта 2017 года.&lt;/p&gt;&lt;p&gt;Доступны следующие редакции дистрибутива:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;a href="http://www.redhat.com/rhel/server/"&gt;Red Hat Enterprise Linux 5 Server&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt;  &lt;a href="http://www.redhat.com/rhel/server/advanced/"&gt;Red Hat Enterprise Linux 5 Advanced Platform&lt;/a&gt;
+ &lt;/li&gt;&lt;li&gt; &lt;a href="http://www.redhat.com/rhel/desktop"&gt;Red Hat Enterprise Linux 5 Desktop&lt;/a&gt;
+ &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Основные &lt;a href="http://docs.redhat.com/docs/en-US/Red_Hat_Enterprise_Linux/5/html-single/5.8_Technical_Notes/index.html"&gt;изменения&lt;/a&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Поддержка стандарта PCI Express 3.0
+ &lt;/li&gt;&lt;li&gt; Обновлены драйверы для сетевых плат, устройств хранения и видеоадаптеров
+ &lt;/li&gt;&lt;li&gt; Увеличение масштабируемости гипервизора KVM, число виртуальных CPU, которые можно использовать в гостевых окружениях, увеличено со 128 до 256
+ &lt;/li&gt;&lt;li&gt; Новая утилита iotop обеспечивает мониторинг устройств ввода/вывода, а также оценивает нагрузку на отдельные диски со стороны отдельных процессов
+ &lt;/li&gt;&lt;li&gt; Включён дополнительный набор утилит binutils 2.20, обеспечивающих поддержку GCC 4.4
+ &lt;/li&gt;&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/1aHJ01f5QFk" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/redhat/7447716</feedburner:origLink></item>
+  
+    <item>
+      <author>ymn</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/lFScsXsOT5w/7446836</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/conference/7446836</guid>
+      <title>Семинар по RHEL6 пройдет 29 февраля в Санкт-Петербурге </title>
+      
+        <pubDate>
+
+
+
+
+Wed, 22 Feb 2012 08:12:56 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;29 февраля в Санкт-Петербурге пройдет семинар, посвященный Red Hat Enterprise Linux 6. Программа семинара будет состоять из двух частей: &lt;/p&gt;&lt;ul&gt;&lt;li&gt; Обзор Red Hat Enterprise Linux 6 
+&lt;ul&gt;&lt;li&gt; Red Hat Enterprise Linux. Особенности версии 6.2, RHEL for SAP, MRG.
+   &lt;/li&gt;&lt;li&gt; Red Hat Enterprise Virtualization (RHEV) и облачная стратегия Red Hat.
+   &lt;/li&gt;&lt;li&gt; Примеры использования продуктов Red Hat.
+&lt;/li&gt;&lt;/ul&gt;
+ &lt;/li&gt;&lt;li&gt; Решения от ГНУ/Линуксцентра на базе СПО для вашей организации
+&lt;ul&gt;&lt;li&gt; Почему ГНУ/Линуксцентр поставляет только качественные продукты и решения? Обзор преимуществ.
+   &lt;/li&gt;&lt;li&gt; Почему удобно и выгодно использовать системы с открытым исходным кодом?
+   &lt;/li&gt;&lt;li&gt; Системы совместной работы, управления документами и электронного документооборота на базе Свободного Программного Обеспечения (СПО).
+   &lt;/li&gt;&lt;/ul&gt;
+ &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;К участию в семинаре приглашаются руководители бизнеса, директора по IT,  технические директора и ИТ-инженеры. &lt;/p&gt;&lt;p&gt;Программа семинара доступна по  &lt;a href="http://linuxcenter.ru/lab/docs/redhat_seminar_29_02_2012.pdf"&gt;ссылке&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Дополнительная информация по телефону Red Hat Premier Business Partner: +7 (812) 3090686&lt;/p&gt;&lt;p&gt;Адрес семинара: Отель &amp;quot;Ибис Санкт-Петербург Центр&amp;quot; (Ibis St. Petersburg Centre), 191011, Санкт-Петербург, Лиговский пр., 54&lt;/p&gt;&lt;p&gt;Участие в семинаре бесплатное. Необходима предварительная регистрация по адресу: &lt;a href="http://www.linuxcenter.ru/RH2012"&gt;http://www.linuxcenter.ru/RH2012&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/lFScsXsOT5w" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/conference/7446836</feedburner:origLink></item>
+  
+    <item>
+      <author>provaton</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/mo3sgkY9FXM/7445787</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/ubuntu/7445787</guid>
+      <title>Анонсирована Ubuntu for Android</title>
+      
+        <pubDate>
+
+
+
+
+Tue, 21 Feb 2012 23:29:33 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Canonical анонсировала проект &lt;a href="http://www.ubuntu.com/devices/android"&gt;Ubuntu for Android&lt;/a&gt;. Цель проекта - запуск полноценного десктопа с Ubuntu на Android-смартфоне с док-станцией.&lt;/p&gt;&lt;p&gt;По мнению Canonical, мобильные устройства обладают достаточными ресурсами для запуска полноценных десктопных приложений. Поэтому, более нецелесообразно носить с собой (например, из дома на работу) тяжелый ноутбук - достаточно взять свой телефон и подсоединить его к док-станции и получить полноценное рабочее место.&lt;/p&gt;&lt;p&gt;Ubuntu for Android можно запустить на ОС Android 2.3 (Gingerbread) или выше. Ubuntu и Android используют одно ядро (kernel). Когда смартфон подсоединяется к док-станции, Ubuntu OS запускается и работает параллельно с Android. Это позволяет использовать десктопные и мобильные приложения одновременно. (например, работать в полноценном офисном пакете и принимать входящие звонки). При этом, используется модуль Convergence API, который позволяет интегрировать мобильные и десктопные приложения (в частности, происходит синхронизация адресной книги, фотографий, календарей и уведомлений). Когда смартфон отключается от док-станции, все ресурсы устройства возвращаются Android.&lt;/p&gt;&lt;p&gt;( &lt;a href="http://www.linux.org.ru//news/ubuntu/7445787#cut0"&gt;читать дальше...&lt;/a&gt; )&lt;/p&gt;&lt;p&gt;Пока что код проекта в открытом доступе недоступен, однако разработчики Android-устройств могут запросить такую информацию с помощью &lt;a href="http://www.ubuntu.com/devices/android/contact-us"&gt;веб-формы&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/mo3sgkY9FXM" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/ubuntu/7445787</feedburner:origLink></item>
+  
+    <item>
+      <author>provaton</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/aB2bk-0g4ds/7442903</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/openoffice/7442903</guid>
+      <title>Document Foundation зарегистрирована юридически</title>
+      
+        <pubDate>
+
+
+
+
+Tue, 21 Feb 2012 17:49:04 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;&lt;a href="http://www.documentfoundation.org/"&gt;Document Foundation&lt;/a&gt; - организация занимающаяся разработкой,  популяризацией и юридической защитой свободного офисного пакета LibreOffice - была юридически зарегистрирована. Место регистрации - Берлин, форма регистрации - &amp;quot;rechtsfähige Stiftung des bürgerlichen Rechts&amp;quot; (независимая организация гражданского права).&lt;/p&gt;&lt;p&gt;Михаэль Шинагль (адвокат занимавшийся процессом регистрации) говорит: &amp;quot;Юридическая регистрация Document Foundation - уникальное явление в истории свободного ПО. Вряд ли найдется подобная организация, которая сможет так удачно обеспечить права активным участникам разработки. Своим уставом мы обеспечили идеальную основу для создания экосистемы свободного офиса - пользователей, разработчиков, маркетологов и т. д. Мы приглашаем всех желающих активистов присоединиться к Document Foundation&amp;quot;.&lt;/p&gt;&lt;p&gt;К сожалению, Михаэль не уточнил, какие именно права сможет так эффективно защитить Document Foundation, но исходя из последних тенденций в мире IT можно предположить, что в первую очередь это должна быть защита от патентной угрозы.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/aB2bk-0g4ds" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/openoffice/7442903</feedburner:origLink></item>
+  
+    <item>
+      <author>netcat</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/BLSY5oWN9vQ/7440839</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/games/7440839</guid>
+      <title>Openarena 0.8.8</title>
+      
+        <pubDate>
+
+
+
+
+Tue, 21 Feb 2012 09:21:52 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Состоялся выход Openarena 0.8.8 — трехмерного шутера на движке Quake 3. Некоторые из изменений:&lt;br&gt;
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Новыe уровни для одиночной игры.
+&lt;/li&gt;&lt;li&gt; Снова поддерживает Mac OS X.
+&lt;/li&gt;&lt;li&gt; Несколько новых карт.
+&lt;/li&gt;&lt;li&gt; Исправлены ошибки анимации моделей Liz и SMarine.
+&lt;/li&gt;&lt;li&gt; Angelyss и Gargoyle перерисованны.
+&lt;/li&gt;&lt;li&gt; Neko - новая модель.
+&lt;/li&gt;&lt;li&gt; Grappling Hook.
+&lt;/li&gt;&lt;li&gt; Музыка.
+&lt;/li&gt;&lt;li&gt; И многое другое.
+&lt;/li&gt;&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/BLSY5oWN9vQ" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/games/7440839</feedburner:origLink></item>
+  
+    <item>
+      <author>Tehnick</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/0Rw3NXr_tco/7442144</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/internet/7442144</guid>
+      <title>Релиз EiskaltDC++ 2.2.6</title>
+      
+        <pubDate>
+
+
+
+
+Tue, 21 Feb 2012 09:21:40 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;&lt;a href="https://github.com/negativ/eiskaltdcpp/tree/v2.2.6"&gt;Cостоялся&lt;/a&gt; релиз &lt;a href="http://ru.wikipedia.org/wiki/EiskaltDC%2B%2B"&gt;EiskaltDC++&lt;/a&gt; 2.2.6 — кроссплатформенного графического клиента для сетей &lt;a href="http://ru.wikipedia.org/wiki/Direct_Connect"&gt;Direct Connect&lt;/a&gt; и &lt;a href="http://ru.wikipedia.org/wiki/Advanced_Direct_Connect"&gt;Advanced Direct Connect&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Основные отличия от версии &lt;a href="https://www.linux.org.ru/news/internet/7177364"&gt;2.2.5&lt;/a&gt;:&lt;/p&gt;&lt;p&gt;&lt;i&gt;Общие изменения&lt;/i&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Добавлены греческий и итальянский переводы.
+&lt;/li&gt;&lt;li&gt; Запрещена перезапись внешнего IP при включенном DHT.
+&lt;/li&gt;&lt;li&gt; Добавлена поддержка чтения и записи полного дерева TTH в атрибуте файла. Реализация совместима с FlylinkDC++. Не все файловые системы позволяют хранить данные необходимого размера. При невозможности записи атрибутов программа обрабатывает файлы как и прежде.
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;i&gt;eiskaltdcpp-qt&lt;/i&gt;
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Рефакторинг исходного кода. Исправлены регрессии, добавленные в версии 2.2.5.
+&lt;/li&gt;&lt;li&gt; Исправлено падение программы при закрытии вкладки хаба, когда есть открытые вкладки приватных чатов. (Проблема была добавлена в версии 2.2.5)
+&lt;/li&gt;&lt;li&gt; В контекстное меню на иконке в трее добавлен пункт быстрой настройки ограничений скорости передач.
+&lt;/li&gt;&lt;li&gt; Используется перехват сигналов SIGSEGV, SIGABRT, SIGBUS, SIGKILL и SIGTERM для освобождения разделяемой памяти перед выходом из программы. (Не актуально в MS Windows)
+&lt;/li&gt;&lt;li&gt; Исправлено добавление элементов в список результатов поиска, когда используется сортировка по количеству источников.
+&lt;/li&gt;&lt;li&gt; Добавлена опция выбора действия при изменении активных скриптов (QtScript): не делать ничего, спросить пользователя или перезагрузить скрипты.
+&lt;/li&gt;&lt;li&gt; Исправлена загрузка больших файл-листов при включенном ограничении на максимальный размер файла: теперь такие файл-листы игнорируются.
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;i&gt;eiskaltdcpp-gtk&lt;/i&gt;
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Улучшена поддержка Gtk3.
+&lt;/li&gt;&lt;li&gt; Добавлен переключатель языка в диалоге настроек.
+&lt;/li&gt;&lt;li&gt; Исправлена ошибка с дублированием записей в элементах GtkComboBoxText.
+&lt;/li&gt;&lt;li&gt; Добавлена поддержка libcanberra для звукового оповещения (опция -DUSE_LIBCANBERRA для cmake).
+&lt;/li&gt;&lt;li&gt; Исправлено падение программы в диалоговом окне прогресса хэширования.
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;i&gt;eiskaltdcpp-daemon&lt;/i&gt;
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Добавлена опция командной строки: --debug
+&lt;/li&gt;&lt;li&gt; Добавлены новые методы JSON-RPC: methods.list, hash.pause, hash.status, queue.getsources
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;i&gt;eiskaltdcpp-cli&lt;/i&gt;
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Добавлены новые методы JSON-RPC: queue.list, queue.listtargets, search.clear
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/negativ/eiskaltdcpp/raw/v2.2.6/ChangeLog_ru.txt"&gt;Более подробный список изменений&lt;/a&gt;. Следующий релиз программы ожидается 25 марта 2012.&lt;/p&gt;&lt;p&gt;( &lt;a href="http://www.linux.org.ru//news/internet/7442144#cut0"&gt;читать дальше...&lt;/a&gt; )&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/0Rw3NXr_tco" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/internet/7442144</feedburner:origLink></item>
+  
+    <item>
+      <author>marvin_yorke</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/B7l7CkxUtAo/7440863</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/opensource/7440863</guid>
+      <title>The Julia Language — ещё один ЯП?</title>
+      
+        <pubDate>
+
+
+
+
+Mon, 20 Feb 2012 23:08:49 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Тихой сапой без особых скандалов и новостей зарелизился (очередной?) язык программирования, на этот раз с приятным женским именем Julia.&lt;br&gt;&lt;br&gt;Зачем еще один? Разработчики заявляют, что хотели взять лучшее из существующих языков, как то: скорость Си, динамизм Ruby, систему макросов Lisp, чтобы создать язык, удобный для статистических (R), математических (Matlab/Octave) задач, естественной обработки строк (Perl), а также использования в качестве шелла для запуска других утилит. Короче, счастья для всех и даром, пусть никто не уйдет обиженным. &lt;br&gt;&lt;br&gt;Более того, одной из ключевых фич должна стать возможность развернуть кластер прямо из коробки, причем без лишнего оверхеда, свойственного Java-решениям.&lt;br&gt;&lt;br&gt;В наличии JIT-компиляция с бекендом LLVM.&lt;br&gt;&lt;br&gt;И хотя не всё ещё реализовано, уже сейчас можно скачать первый релиз — версию 1.0 и попробовать. &lt;br&gt;&lt;br&gt;Код доступен на гитхабе: &lt;a href="https://github.com/JuliaLang/julia"&gt;https://github.com/JuliaLang/julia&lt;/a&gt;.&lt;br&gt;Лицензия MIT/GPLv2&lt;br&gt;&lt;br&gt;Оф. сайт: &lt;a href="http://julialang.org/"&gt;http://julialang.org/&lt;/a&gt;.&lt;br&gt;Там же можно увидеть кое-какие бенчмарки (сравнение с С, Python, Matlab, R и др.)&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/B7l7CkxUtAo" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/opensource/7440863</feedburner:origLink></item>
+  
+    <item>
+      <author>Pleshner</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/a9o5FUDwWTs/7440039</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/doc/7440039</guid>
+      <title>Русская документация по Maatkit</title>
+      
+        <pubDate>
+
+
+
+
+Mon, 20 Feb 2012 20:31:21 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Представлена серия статей подробно описывающая все возможности скрипт-пакета &lt;a href="http://www.maatkit.org/"&gt;Maatkit&lt;/a&gt;. Maatkit - это набор инструментов, который предоставляет собой расширенные средства по управлению MySQL, сбору аналитической информации и ее обработке, проведению рутинных операций, восстановлению данных и прочего. Этот пакет разработан и поддерживается компанией Percona.&lt;/p&gt;&lt;p&gt;Косвенным показателем популярности Maatkit является статистика, равная 60 000 скачиваний на конец 2010 года (только со страницы Google Сode, не считая официальной страницы проекта), а также использование этого сервисного пакета при администрировании MySQL на постоянной основе во множестве мировых компаний, например, таких как Facebook и Google. С недавних пор, некоторые утилиты из Maatkit поддерживают также работу и с СУБД PostgreSQL и memcached. &lt;/p&gt;&lt;ul&gt;&lt;li&gt; &lt;a href="http://blogerator.ru/page/mysql-server-maatkit-vvedenie"&gt;Введение и оглавление&lt;/a&gt;;
+    &lt;/li&gt;&lt;li&gt; &lt;a href="http://blogerator.ru/page/mysql-server-maatkit-howto-1"&gt;Часть 1: Инсталляция и анализ SQL-запросов&lt;/a&gt;;
+    &lt;/li&gt;&lt;li&gt; &lt;a href="http://blogerator.ru/page/mysql-server-maatkit-howto-2"&gt;Часть 2: Мониторинг MySQL-сервера&lt;/a&gt;;
+    &lt;/li&gt;&lt;li&gt; &lt;a href="http://blogerator.ru/page/mysql-server-maatkit-howto-3"&gt;Часть 3: Системные утилиты для MySQL&lt;/a&gt;;
+    &lt;/li&gt;&lt;li&gt; &lt;a href="http://blogerator.ru/page/mysql-server-maatkit-howto-4"&gt;Часть 4: Репликация и резервирование MySQL&lt;/a&gt;.
+&lt;/li&gt;&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/a9o5FUDwWTs" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/doc/7440039</feedburner:origLink></item>
+  
+    <item>
+      <author>fragment</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/Ftx24tfSi4I/7440001</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/internet/7440001</guid>
+      <title>Состоялся релиз Apache 2.4.1</title>
+      
+        <pubDate>
+
+
+
+
+Mon, 20 Feb 2012 17:12:43 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Apache Software Foundation и Apache HTTP Server Project рады объявить о выпуске Apache HTTP Server версии 2.4.1, первом стабильном релизе новой ветки 2.4.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Основные улучшения:
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Динамически загружаемые МРМ. Несколько МРМ могут быть собраны в виде загружаемых модулей, которые возможно активировать без пересборки
+&lt;/li&gt;&lt;li&gt;Модуль Event MPM более не является экспериментальным и полностью поддерживается
+&lt;/li&gt;&lt;li&gt;Улучшенная поддержка асинхронного чтения/записи для МРМ
+&lt;/li&gt;&lt;li&gt;LogLevel  теперь может быть сконфигурирован для каждого модуля и каждой директории отдельно. Поверх отладочного уровня логирования могут быть добавлены новые уровни от trace1 до trace8
+&lt;/li&gt;&lt;li&gt;Операторы &amp;lt;If&amp;gt;, &amp;lt;ElseIf&amp;gt;, и &amp;lt;Else&amp;gt; могут быть использованы для определения блоков конфигурации, привязанных к конкретным запросам
+&lt;/li&gt;&lt;li&gt;Новый парсер выражений позволяет задавать сложные условия в таких директивах, как SetEnvIfExpr, RewriteCond, Header, &amp;lt;If&amp;gt; и др.
+&lt;/li&gt;&lt;li&gt;Теперь возможно указывать значение параметра KeepAliveTimeout в миллисекундах
+&lt;/li&gt;&lt;li&gt;Директива NameVirtualHost более не используется и объявлена устаревшей (deprecated)
+&lt;/li&gt;&lt;li&gt;Новая директива AllowOverrideList предоставляет более тонкую настройку .htaccess-файлов
+&lt;/li&gt;&lt;li&gt;Возможность использовать переменные в конфигурационных файлах
+&lt;/li&gt;&lt;li&gt;Несмотря на множество новых возможностей, потребление памяти по сравнению с веткой 2.2 снижено
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;( &lt;a href="http://www.linux.org.ru//news/internet/7440001#cut0"&gt;читать дальше...&lt;/a&gt; )&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/Ftx24tfSi4I" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/internet/7440001</feedburner:origLink></item>
+  
+    <item>
+      <author>anonymous</author>
+      <link>http://feedproxy.google.com/~r/org/LOR/~3/Veibji4KsIA/7439179</link>
+      <guid isPermaLink="false">http://www.linux.org.ru/news/debian/7439179</guid>
+      <title>Проект Debian представляет свою патентную политику</title>
+      
+        <pubDate>
+
+
+
+
+Mon, 20 Feb 2012 13:44:53 +0400
+
+</pubDate>
+      
+      
+      
+
+
+
+
+
+
+<description>&lt;p&gt;Проект Debian представляет свою патентную политику относительно входящего в дистрибутив ПО: &lt;a href="http://www.debian.org/legal/patent"&gt;http://www.debian.org/legal/patent&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Debian занимает критическую позицию по отношению к патентам на ПО: патенты на программные алгоритмы рассматриваются как угроза свободному программному обеспечению и препятствие для миссии проекта по предоставлению полностью свободной операционной системы для всех. Мы считаем, что патенты на программное обеспечение не способствуют инновациям и рекомендуем разработчикам апстрима возражать против данных патентов.&lt;/p&gt;&lt;p&gt;В то же время, когда в некоторых странах фактически возможно патентовать связанные с программным обеспечением идеи, крайне важно избегать недооценки или переоценки патентных угроз. В частности, мы обеспокоены патентным FUD (страх, неуверенность, сомнение) и проделали работу по внесению ясности в этом вопросе.&lt;/p&gt;&lt;p&gt;После публикования &lt;a href="http://www.debian.org/reports/patent-faq"&gt;Community Distribution Patent Policy FAQ&lt;/a&gt;, объявление патентной политики является следующим шагом в противостоянии системе патентов на ПО, которая, как мы надеемся, будет уничтожена. Мы благодарим юристов из &lt;a href="http://www.softwarefreedom.org/"&gt;Software Freedom Law Center&lt;/a&gt; за совместную работу над данной политикой.&lt;/p&gt;&lt;p&gt;«В настоящее время, патентная агрессия широко распространена в информационной индустрии», — говорит Эбен Молен (Eben Moglen), основатель и директор Software Freedom Law Center, — «Компании тратят миллиарды долларов, пытаясь использовать патентные монополии для пресечения инноваций и угрожая новаторам. С принятием данной патентной политики, проект Debian готовится защищать своих разработчиков и пользователей более эффективно, в полную силу, грамотно.»&lt;/p&gt;&lt;p&gt;Лидер проекта Debian Стефано Заккироли (Stefano Zacchiroli) сказал: «Проект Debian имеет давнюю традицию отстаивать права пользователей на полностью свободную операционную систему. Патентные страхи, неуверенность и сомнения мешают этому. Патентная политика для включенного в состав Debian ПО поможет уменьшить FUD среди наших пользователей.»&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/org/LOR/~4/Veibji4KsIA" height="1" width="1"/&gt;</description>
+    <feedburner:origLink>http://www.linux.org.ru/news/debian/7439179</feedburner:origLink></item>
+  
+</channel>
+</rss>

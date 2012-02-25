@@ -1,4 +1,7 @@
 Reader::Application.routes.draw do
+  get "add_feed" => "add_feed#new"
+  post "add_feed/create"
+
   get "about" => "pages#about", :as => :about
 
   devise_for :users
