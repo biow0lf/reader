@@ -51,6 +51,6 @@ end
 group :development do
   gem 'guard'
   gem 'rb-readline'
-  gem 'growl_notify'
+  gem 'ruby_gntp'
   gem 'guard-rspec'
 end
