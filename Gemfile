@@ -46,3 +46,9 @@ end
 group :test do
   gem 'shoulda-matchers'
 end
+
+group :development do
+  gem 'guard'
+  gem 'growl_notify'
+  gem 'guard-rspec'
+end
