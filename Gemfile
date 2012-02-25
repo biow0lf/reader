@@ -52,4 +52,5 @@ group :development do
   gem 'rb-readline'
   gem 'ruby_gntp'
   gem 'guard-rspec'
+  gem 'guard-cucumber'
 end
