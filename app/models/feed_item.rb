@@ -1,6 +1,8 @@
 # encoding: utf-8
 
 class FeedItem < ActiveRecord::Base
+  include Likeable
+
   belongs_to :feed
 
   validates :feed, presence: true

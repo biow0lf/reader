@@ -1,17 +1,41 @@
 <h1>Dashboard</h1>
 
-<% @feeds.each do |feed| %>
-  <h2><%= feed.title %></h2>
-  <% feed.feed_items.each do |item| %>
+<!-- <%# @feeds.each do |feed| %>
+  <h2><%#= feed.title %></h2>
+  <%# feed.feed_items.each do |item| %>
     <div class="span7 well">
-      <h3><%= link_to item.title, item.link %></h3>
-      <p><%= item.body.html_safe %></p>
+      <h3><%#= link_to item.title, item.link %></h3>
+      <p><%#= item.body.html_safe %></p>
       <div class="btn-group">
-        <a href="#"><i class="icon-star">&nbsp;</i>Star</a>
-        <a href="#"><i class="icon-heart">&nbsp;</i>Like</a>
-        <a href="#"><i class="icon-share">&nbsp;</i>Share</a>
-        <a href="#"><i class="icon-pencil">&nbsp;</i>Share &amp; Comment</a>
+        <a href="#"><i class="icon-star-empty">&nbsp;</i>&nbsp;Star</a>
+        <a href="#"><i class="icon-star">&nbsp;</i>&nbsp;Un-Star</a>
+        <a href="#"><i class="icon-heart">&nbsp;</i>&nbsp;Like</a>
+        <a href="#"><i class="icon-retweet">&nbsp;</i>&nbsp;Share</a>
+        <a href="#"><i class="icon-comment">&nbsp;</i>&nbsp;Share with comment</a>
       </div>
     </div>
-  <% end %>
+  <%# end %>
+<%# end %>
+
+<div class="span7 well">
+  <%#= paginate @feeds %>
+  <%#= puts @feeds.first.title %>
+</div> -->
+
+<% @feed_items.each do |item| %>
+  <div class="span7 well">
+    <h3><%= link_to "[#{item.feed.title}] #{item.title}", item.link %></h3>
+    <p><%= item.body.html_safe %></p>
+    <div class="btn-group">
+      <a href="#"><i class="icon-star-empty">&nbsp;</i>&nbsp;Star</a>
+      <a href="#"><i class="icon-star">&nbsp;</i>&nbsp;Un-Star</a>
+      <a href="#"><i class="icon-heart">&nbsp;</i>&nbsp;Like</a>
+      <a href="#"><i class="icon-retweet">&nbsp;</i>&nbsp;Share</a>
+      <a href="#"><i class="icon-comment">&nbsp;</i>&nbsp;Share with comment</a>
+    </div>
+  </div>
 <% end %>
+
+<div class="span7 well">
+  <%= paginate @feed_items %>
+</div>

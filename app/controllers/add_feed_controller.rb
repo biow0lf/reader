@@ -6,6 +6,6 @@ class AddFeedController < ApplicationController
 
   def create
     Feed.add_feed(params[:url], current_user)
-    redirect_to dashboard_path
+    redirect_to dashboard_path, :notice => _('New Feed successfully added')
   end
 end

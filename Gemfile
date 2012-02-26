@@ -5,6 +5,9 @@ gem 'rails', '3.2.2.rc1'
 gem 'sqlite3'
 
 gem 'devise'
+gem 'kaminari'
+# gem 'kaminari_themes', :git => 'git://github.com/jweslley/kaminari_themes.git', :branch => 'jweslley'
+gem 'likeable'
 gem 'twitter-bootstrap-rails', '~> 2.0.1.0'
 gem 'simple-rss'
 gem 'htmlentities', :require => false
@@ -15,6 +18,8 @@ gem 'gettext', :git => 'git://github.com/cameel/gettext.git', :require => false
 
 gem 'delayed_job'
 gem 'delayed_job_active_record'
+
+gem 'brewdler', :require => false
 
 # Gems used only for assets and not required
 # in production environments by default.
